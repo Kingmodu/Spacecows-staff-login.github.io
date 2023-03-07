@@ -1,1 +1,8 @@
-
+password = input ('enter password ')
+if password == ('mana'):
+	print ('example url')
+elif password == ('1357'):
+    print ('very secret url')
+else:
+    print ('your wrong')
+  
